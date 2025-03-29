@@ -27,3 +27,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/laniac9/fractal?utm_source=oss&utm_medium=github&utm_campaign=laniac9%2Ffractal&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
